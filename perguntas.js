@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'História',
+    'Esportes',
     'Qual o esporte mais práticado no Brasil?',
     'Futebol'
 )
